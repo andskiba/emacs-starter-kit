@@ -1,0 +1,6 @@
+#contributor : Andrzej Skiba <andskiba@gmail.com>
+#name : protfun ...(...)
+# --
+protected function ${function_name}(${function_args}) {
+   $0
+}
